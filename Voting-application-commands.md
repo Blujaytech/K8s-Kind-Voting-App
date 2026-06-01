@@ -130,9 +130,11 @@ http://<SERVER_PUBLIC_IP>:5000
 kubectl port-forward svc/result 5001:5001 --address=0.0.0.0 &
 ```
 Explanation: Exposes the Result application on port 5001.
-```
+
+
 Access URL:
 
 ```
 http://<SERVER_PUBLIC_IP>:5001
+
 ```
