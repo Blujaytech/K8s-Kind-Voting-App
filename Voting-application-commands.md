@@ -1,16 +1,16 @@
 ArgoCD Deployment for K8s Kind Voting App
 
 1. Create ArgoCD Namespace
-'''
+```
 kubectl create namespace argocd
-'''
+```
 
 Explanation: Creates a dedicated namespace for ArgoCD resources.
 
 2. Verify Namespace Creation
-'''
+```
 kubectl get ns
-'''
+```
 
 Explanation: Lists all namespaces and confirms the argocd namespace exists.
 
