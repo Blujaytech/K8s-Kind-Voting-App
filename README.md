@@ -16,10 +16,10 @@ The K8s Kind Voting App is a cloud-native microservices application deployed on 
 
 ## Architecture Overview
 
-```
+
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/97b29c09-7ea9-4a79-94e3-eef1ebdc1fa2" />
 
-```
+
 
 ```
 +----------------+      +----------------+      +------------------+
