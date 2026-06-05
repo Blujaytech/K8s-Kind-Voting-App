@@ -2,9 +2,24 @@
 
 A sample cloud-native voting application designed to demonstrate Kubernetes orchestration using [kind](https://kind.sigs.k8s.io/). This project showcases a microservices-based architecture with .NET, Redis, PostgreSQL, and Kubernetes.
 
----
+```
+K8s Kind Voting App – Project Overview
+
+Project Name: K8s Kind Voting Application with GitOps Deployment
+
+GitHub Repository: K8s Kind Voting App Repository
+
+Project Overview
+
+The K8s Kind Voting App is a cloud-native microservices application deployed on a Kubernetes cluster created using Kind (Kubernetes in Docker). The project demonstrates end-to-end Kubernetes deployment, GitOps automation using Argo CD, monitoring with Prometheus and Grafana, and container orchestration using Docker and Kubernetes. The application allows users to vote between two options and view real-time results through a distributed microservices architecture.
+```
 
 ## Architecture Overview
+
+```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/97b29c09-7ea9-4a79-94e3-eef1ebdc1fa2" />
+
+```
 
 ```
 +----------------+      +----------------+      +------------------+
