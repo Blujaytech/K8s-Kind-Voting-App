@@ -1,0 +1,7 @@
+K8s Kind Voting Application
+Project Description
+
+The K8s Kind Voting Application is a cloud-native microservices project designed to demonstrate Kubernetes deployment, container orchestration, GitOps, and observability practices. 
+The project uses Kind (Kubernetes in Docker) to create a local Kubernetes cluster running on an AWS EC2 instance, with application deployments managed through Argo CD. 
+The application allows users to vote between two options and view real-time results. 
+The architecture consists of multiple microservices communicating through Redis and PostgreSQL.
