@@ -60,6 +60,7 @@ A sample cloud-native voting application designed to demonstrate Kubernetes orch
    ```
 
 2. **Build Docker images:**
+   
    ```sh
    docker build -t voting-app-frontend ./frontend
    docker build -t voting-app-api ./api
@@ -93,17 +94,6 @@ k8s-kind-voting-app/
 ```
 
 ---
-
-
-
-
-## Monitoring Dashboards
-
-### Grafana
-![Grafana Dashboard](./grafana.png)
-
-### Prometheus
-![Prometheus Dashboard](./prometheus.png)
 
 ## Technologies Used
 
