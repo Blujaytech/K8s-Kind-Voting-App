@@ -9,6 +9,9 @@ GitHub Repository: K8s Kind Voting App Repository
 
 The K8s Kind Voting App is a cloud-native microservices application deployed on a Kubernetes cluster created using Kind (Kubernetes in Docker). The project demonstrates end-to-end Kubernetes deployment, GitOps automation using Argo CD, monitoring with Prometheus and Grafana, and container orchestration using Docker and Kubernetes. The application allows users to vote between two options and view real-time results through a distributed microservices architecture.
 
+# TechStack
+1. Aws EC2 - 2 Servers (EKS/ArgoCD/Docker).
+2. Git,ArgoCD,Docker,Aws Eks.
 
 ## Architecture Overview
 
