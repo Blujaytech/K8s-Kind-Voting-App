@@ -124,7 +124,7 @@ k8s-kind-voting-app/
 
 MIT License
 
-# Project installation Process :
+### Project installation Process :
 
 ArgoCD Deployment for K8s Kind Voting App
 
